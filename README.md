@@ -1,2 +1,2 @@
-# site-anna-bella
-Site reproduzido para uma modelo ficticia, em html e css.
+# Site-Anna-Bella
+Site Ficticio  criado para uma modelo , conteúdo simples em html e css.
